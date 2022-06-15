@@ -1,0 +1,48 @@
+je recup les assets 
+
+linker les assets html css
+
+npm run build : to install dependances, fichiers fixes et file package.json
+
+npm i bootstrap
+
+1 child only in template tag
+
+script = dans lequel on a le coeur du component
+
+create composant : 
+l importer dans le script
+le declarer dans l objet compoenent:
+et 
+s'en servir dans le template avec le tag
+
+router-view component va replace le composant associe a son url corrrespondante
+
+use les name et pas les path
+
+data structure: 
+j'obtiens un OBJET JS 
+ex:
+oneDev.firstName
+
+firstName is a property
+
+comment lister une property? 
+comment creer dynamiquement un objet?
+comment appeler un objet ? 
+
+on fait une requete get sur une adresse
+1 objet avec un array d objets = cest mon pt d entree
+
+module axios : 
+npm i axios   (i as install)
+
+method created executee automatiquement des que jarrive sur le component
+le component va aller chercher les datas
+
+axios fait un call http en GET 
+await s use dans une function async
+check dans F12, network
+
+
+
